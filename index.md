@@ -2,17 +2,16 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Memahami Filsafat Postmodernisme Jean Francois Lyotard](ebook/Memahami Filsafat PostmodernismeJeanFrancoisLyotard.pdf) – Michael Ricardo Aritonang (2024)
-2. [Cerdas Mencari Informasi](ebook/cerdas-mencari-informasi.pdf) - siberkreasi (2024)
-3. [Awas Kejebak Hoaks](ebook/awas-kejebak-hoaks.pdf) - siberkreasi (2024)
-4. [Digitalisasi Budaya](ebook/digitalisasi-budaya.pdf) - siberkreasi (2024)
-5. [Si Paling Anti Vaksin](ebook/Si Paling Anti-Vaksin.pdf) - Almas (2025)
-6. [Demokrasi di Ruang Digital](ebook/demokrasi-di-ruang-digital.pdf) - siberkreasi (2024)
-7. [Artificial Intelligence as a Future Technology of Work](ebook/ai-as-a-technology-of-work.pdf) - Devie Rahmawati dkk (2022)
-8. [Mul dan Semangkok Garam](ebook/Mul dan Semangkok Garam.pdf) - Barbara Eni (2023)
-9. [Yuk Mengenal Rencong Aceh](ebook/Esra_Firmansyah_Yuk Mengenal Rencong Aceh_Lokalitas sebagai Identitas.pdf) - Firmansyah (2026)
-10. [Semua Tidak Berubah](ebook/semua-tidak-berubah.pdf) - Nurindra K (2026)
-11. [Agar Silaturahmi Tidak Terputus...](ebook/Agar Silahturahmi Tidak Terputus....pdf) - Erawati Wijaya (2024)
-12. [Ringkasan Pemaparan UGC](ebook/ringkasan-ugc.pdf) - Ressa (2026)
+1. [Cerdas Mencari Informasi](ebook/01.pdf) - siberkreasi (2024)
+2. [Awas Kejebak Hoaks](ebook/02.pdf) - siberkreasi (2024)
+3. [Digitalisasi Budaya](ebook/03.pdf) - siberkreasi (2024)
+4. [Si Paling Anti Vaksin](ebook/04.pdf) - Almas (2025)
+5. [Demokrasi di Ruang Digital](ebook/05.pdf) - siberkreasi (2024)
+6. [Artificial Intelligence as a Future Technology of Work](ebook/06.pdf) - Devie Rahmawati dkk (2022)
+7. [Mul dan Semangkok Garam](ebook/07.pdf) - Barbara Eni (2023)
+8. [Yuk Mengenal Rencong Aceh](ebook/08.pdf) - Firmansyah (2026)
+9. [Semua Tidak Berubah](ebook/09.pdf) - Nurindra K (2026)
+10. [Agar Silaturahmi Tidak Terputus...](ebook/10.pdf) - Erawati Wijaya (2024)
+11. [Ringkasan Pemaparan UGC](ebook/11.pdf) - Ressa (2026)
 ---
 *Powered by GitHub Pages*
